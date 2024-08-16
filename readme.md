@@ -1,25 +1,14 @@
-# Grob-Planung
+# Grob-Planung Lern-Periode 6
 
 ✍️ Leandro Küng
 
-✍️ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
+✍️ 16.08.2024 - 27.09.2024
 
 ## Leit-Satz
 
-✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
+✍️ Ich möchte in dieser Lern-Periode sehr viel am Modul 320 arbeiten weil es sehr wichtig ist. Ich möchte mich sehr mit dem Modul befassen und Aufträge erfüllen die ich bis jetzt nicht gemacht habe. Ich möchte in diesem Modul mindestens eine Note von 5 erreichen. Ebenfalls möchte ich sehr viel mit C# arbeiten weil es im Modul 320 um C# geht. 
 
-## Arbeitspakete für dd.mm.yyyy
+## Arbeitspakete für 18.08.2024
 
-✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
+- [ ] Ich möchte heute an den Aufträgen des Moduls 320 arbeiten. 
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
-
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
