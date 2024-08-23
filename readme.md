@@ -14,6 +14,7 @@
 - [X] Ich möchte den Auftrag LA_320_4204_KonstruktorenUndObjektinit2021 lösen.
 - [X] Ich möchte den Auftrag LA_320_4206_Methoden2021 lösen.
 - [X] Ich möchte den Auftrag LA_320_4207_Methodenüberladung2021 lösen.
+
 Heute habe ich am Modul 320 gearbeitet und habe Auftrag 04, 05, 06 und 07 fertig gelöst.
 
 ## Arbeitspakete für 30.08.2024
