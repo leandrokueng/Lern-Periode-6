@@ -10,8 +10,14 @@
 
 ## Arbeitspakete für 23.08.2024
 
-- [ ] Heute möchte ich die Instanzvariabeln anschauen.
-- [ ] Ich möchte den Auftrag LA_320_4205_KonstruktorenUndObjektinit2021 lösen.
-- [ ] Ich möchte den Auftrag LA_320_4206_Methoden2021 lösen.
-- [ ] Ich möchte den Auftrag LA_320_4207_Methodenüberladung2021 lösen.
+- [X] Heute möchte ich die Instanzvariabeln anschauen.
+- [X] Ich möchte den Auftrag LA_320_4204_KonstruktorenUndObjektinit2021 lösen.
+- [X] Ich möchte den Auftrag LA_320_4206_Methoden2021 lösen.
+- [X] Ich möchte den Auftrag LA_320_4207_Methodenüberladung2021 lösen.
+Heute habe ich am Modul 320 gearbeitet und habe Auftrag 04, 05, 06 und 07 fertig gelöst.
 
+## Arbeitspakete für 30.08.2024
+
+- [ ] Heute möchte ich den Auftrag LA_320_4208 lösen im Modul 320 lösen
+- [ ] Heute möchte ich die Instanzvariabeln durchdenken.
+- [ ] Heute möchte ich die Felder nochmal anschauen. 
