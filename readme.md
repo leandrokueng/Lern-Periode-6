@@ -19,6 +19,15 @@ Heute habe ich am Modul 320 gearbeitet und habe Auftrag 04, 05, 06 und 07 fertig
 
 ## Arbeitspakete für 30.08.2024
 
-- [ ] Heute möchte ich den Auftrag LA_320_4208 lösen im Modul 320 lösen
-- [ ] Heute möchte ich die Instanzvariabeln durchdenken.
-- [ ] Heute möchte ich die Felder nochmal anschauen. 
+- [X] Heute möchte ich den Auftrag LA_320_4208 lösen im Modul 320 lösen
+- [X] Heute möchte ich die Instanzvariabeln durchdenken.
+- [X] Heute möchte ich die Felder nochmal anschauen.
+
+Heute ist es gut abgelaufen. Ich konnte mit Musik meine Aufträge gut lösen.
+
+
+## Arbeitspakete 06.09.2024
+
+- [ ] Heute möchte ich ein Backup erstellen
+- [ ] Heute möchte ich den Auftrag 1716 vom Moudul 231 machen
+- [ ] Heute möchte ich den Auftrag 1717 vom Modul 231 machen
