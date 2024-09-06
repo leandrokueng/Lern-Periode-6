@@ -28,6 +28,16 @@ Heute ist es gut abgelaufen. Ich konnte mit Musik meine Aufträge gut lösen.
 
 ## Arbeitspakete 06.09.2024
 
-- [ ] Heute möchte ich ein Backup erstellen
-- [ ] Heute möchte ich den Auftrag 1716 vom Moudul 231 machen
-- [ ] Heute möchte ich den Auftrag 1717 vom Modul 231 machen
+- [X] Heute möchte ich ein Backup erstellen
+- [X] Heute möchte ich den Auftrag 1716 vom Moudul 231 machen
+- [X] Heute möchte ich den Auftrag 1717 vom Modul 231 machen
+
+Es lief gut. Ich konnte alle Aufträge erfolgreich lösen und abgeben.
+
+## Arbeitspakte 13.09.2024
+
+- [ ] Heute möchte ich Auftrag 18 im Modul 320 Nachholen
+- [ ] Heute möchte ich den Auftrag 1723 im Modul 231 machen
+- [ ] Heute möchte ich den Auftrag 1724 im Modul 231 machen
+
+
