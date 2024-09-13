@@ -36,8 +36,16 @@ Es lief gut. Ich konnte alle Aufträge erfolgreich lösen und abgeben.
 
 ## Arbeitspakte 13.09.2024
 
-- [ ] Heute möchte ich Auftrag 18 im Modul 320 Nachholen
-- [ ] Heute möchte ich den Auftrag 1723 im Modul 231 machen
-- [ ] Heute möchte ich den Auftrag 1724 im Modul 231 machen
+- [X] Heute möchte ich Auftrag 18 im Modul 320 Nachholen
+- [X] Heute möchte ich den Auftrag 1723 im Modul 231 machen
+- [X] Heute möchte ich den Auftrag 1724 im Modul 231 machen
+
+Heute konnte ich alle Aufträge erledigen und das HZ 5 im Modul 231 abschliessen.
+
+## Arbeitspakete 20.09.2024
+
+- [ ] Heute möchte ich den Auftrag mit dem Polymorphismus noch einmal anschauen im Modul 320
+- [ ] Heute möchte ich HZ 4 Im Modul 231 abschliessen
+- [ ] Heute möchte ich mein Promillerechner erweitern
 
 
