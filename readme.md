@@ -46,9 +46,18 @@ Heute konnte ich alle Aufträge erledigen und das HZ 5 im Modul 231 abschliessen
 
 - [X] Heute möchte ich den Auftrag mit dem Polymorphismus noch einmal anschauen im Modul 320
 - [X] Heute möchte ich HZ 5 Im Modul 231 abschliessen
-- [X] Heute möchte ich mein Promillerechner erweitern
+- [ ] Heute möchte ich mein Promillerechner erweitern
 
 ## DSL 
 
-Arbeitspaket 1: Polymorphismus ist ein Konzept der objektorientierten Programmierung, das es Objekten erlaubt, auf gemeinsame Schnittstellen unterschiedlich zu reagieren. Es gibt zwei Arten: Überladung (Methoden mit gleichem Namen, aber unterschiedlichen Parametern) und Überschreibung (Methoden in abgeleiteten Klassen ersetzen die der Basisklasse). Polymorphismus fördert Wiederverwendbarkeit und Flexibilität, da dieselbe Methode auf verschiedene Objekttypen angewendet werden kann.
+Arbeitspaket 1: Polymorphismus ist ein Konzept der objektorientierten Programmierung, das es Objekten erlaubt, auf gemeinsame Schnittstellen unterschiedlich zu reagieren. Es gibt zwei Arten: Überladung (Methoden mit gleichem Namen, aber unterschiedlichen Parametern) und Überschreibung (Methoden in abgeleiteten Klassen ersetzen die der Basisklasse). Polymorphismus fördert Wiederverwendbarkeit und Flexibilität, da dieselbe Methode auf verschiedene Objekttypen angewendet werden kann. Ich brauche keine hilfe, weil ich diesen Auftrag erledigen konnte und damit jetzt fertig bin. Der Auftrag war für mich persöhnlich eher schwieriger und ich habe ebenfalls sehr viel Zeit gebraucht.
 
+Arbeitspaket 2: AGBs sind vorformulierte Vertragsbedingungen, die Unternehmen nutzen, um die Regeln und Rahmenbedingungen ihrer Geschäfte festzulegen. Sie regeln wichtige Aspekte wie Zahlungsbedingungen, Haftung, Widerrufsrechte und Datenschutz. AGBs sollen Klarheit für beide Parteien schaffen, sind jedoch nur wirksam, wenn sie klar formuliert und den Kunden vor Vertragsschluss zugänglich gemacht werden. Sie dürfen keine unfairen Klauseln enthalten, die eine Vertragspartei benachteiligen. Diesen Auftrag habe ich ebenfalls fertig gelöst und abgegeben. Es gibt keine fragen. Der Auftrag war eher einfach jedoch hat er mir ein bisschen zu viel Zeit gekostet.
+
+Arbeitspaket 3: Zu diesem Arbeitspaket bin ich leider nicht mehr gekommen. Ich habe sehr lange am Polymorphismus gearbeitet und ich habe die Zeit vergessen. Jedoch werde ich diesen Auftrag für das nächste Lernatelier zum Ziel nehmen.
+
+## Arbeitspakete 27.09.2024
+
+- [ ] Heute möchte ich meinen Promillerechner erweitern
+- [ ] Heute möchte ich das Handlungsziel 4 im Modul 231 abschliessen.
+- [ ] Heute möchte ich das HZ 4 im Modul 320 abschliessen.
