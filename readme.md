@@ -44,8 +44,11 @@ Heute konnte ich alle Aufträge erledigen und das HZ 5 im Modul 231 abschliessen
 
 ## Arbeitspakete 20.09.2024
 
-- [ ] Heute möchte ich den Auftrag mit dem Polymorphismus noch einmal anschauen im Modul 320
-- [ ] Heute möchte ich HZ 4 Im Modul 231 abschliessen
-- [ ] Heute möchte ich mein Promillerechner erweitern
+- [X] Heute möchte ich den Auftrag mit dem Polymorphismus noch einmal anschauen im Modul 320
+- [X] Heute möchte ich HZ 5 Im Modul 231 abschliessen
+- [X] Heute möchte ich mein Promillerechner erweitern
 
+## DSL 
+
+Arbeitspaket 1: Polymorphismus ist ein Konzept der objektorientierten Programmierung, das es Objekten erlaubt, auf gemeinsame Schnittstellen unterschiedlich zu reagieren. Es gibt zwei Arten: Überladung (Methoden mit gleichem Namen, aber unterschiedlichen Parametern) und Überschreibung (Methoden in abgeleiteten Klassen ersetzen die der Basisklasse). Polymorphismus fördert Wiederverwendbarkeit und Flexibilität, da dieselbe Methode auf verschiedene Objekttypen angewendet werden kann.
 
