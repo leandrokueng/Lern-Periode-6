@@ -58,6 +58,8 @@ Arbeitspaket 3: Zu diesem Arbeitspaket bin ich leider nicht mehr gekommen. Ich h
 
 ## Arbeitspakete 27.09.2024
 
-- [ ] Heute möchte ich meinen Promillerechner erweitern
-- [ ] Heute möchte ich das Handlungsziel 4 im Modul 231 abschliessen.
-- [ ] Heute möchte ich das HZ 4 im Modul 320 abschliessen.
+- [X] Heute möchte ich meinen Promillerechner erweitern
+- [X] Heute möchte ich das Handlungsziel 4 im Modul 231 abschliessen.
+- [X] Heute möchte ich das HZ 4 im Modul 320 abschliessen.
+
+Heute war der letzte Tag der Lernperiode 6 und ich konnte alle meine Aufträge gut lösen. 
